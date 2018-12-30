@@ -2,7 +2,7 @@
 
 #### What is Ansible !
 
-![Image ](/home/cNilesh/Redhat/githubprojects/ansible_learn_the_easy_way/images/a1.png)
+![Image ](https://github.com/NileshChandekar/ansible_learn_the_easy_way/blob/master/images/a1.png)
 
 #### Change Management
 
@@ -25,4 +25,10 @@
     * Make an NFS server.
 
 ![Image ](/home/cNilesh/Redhat/githubprojects/ansible_learn_the_easy_way/images/a2.png)
-    
+
+#### Automation
+
+  * Define task to be executed automatically.
+  * It has ordered task
+  * It can make decision
+  * It can run Ad-hoc task.
