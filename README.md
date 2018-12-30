@@ -24,7 +24,7 @@
     * Make an Apache server
     * Make an NFS server.
 
-![Image ](/home/cNilesh/Redhat/githubprojects/ansible_learn_the_easy_way/images/a2.png)
+![Image ](https://github.com/NileshChandekar/ansible_learn_the_easy_way/blob/master/images//a2.png)
 
 #### Automation
 
