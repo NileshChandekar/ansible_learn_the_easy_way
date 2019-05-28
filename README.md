@@ -1,6 +1,6 @@
 # Ansibele Learn The Easy Way
 
-#### What is Ansible !
+## 1. What is Ansible !
 
 ![Image ](https://github.com/NileshChandekar/ansible_learn_the_easy_way/blob/master/images/a1.png)
 
@@ -71,4 +71,21 @@
   * Encrupted vault.
   * No PKI needed.
 
-  
+## 2. Architecture and Process Flow.
+
+  * There are two parts in topology.
+    * Ansible Control Server
+    * Remote Server
+
+#### Requirement
+
+  * Control Server:
+    * Python 2.6+
+    * Must be *NIX (Linux/Unix/Mac)*
+    * Windows not support, it can be workable with lot of tweeks.
+
+  * Control Server:
+    * *Nix: Python 2.4 (simplejson)*
+    * *Nix: Python 2.5*
+    * SSH
+    * *Windows: Remote Powershell Enabled*
