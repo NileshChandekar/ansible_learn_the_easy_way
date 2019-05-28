@@ -32,3 +32,43 @@
   * It has ordered task
   * It can make decision
   * It can run Ad-hoc task.
+
+#### Orchestration
+
+  * Can be used to orchastrate so many systems
+  * Coordinates automation between the systems.
+
+![Image ](https://github.com/NileshChandekar/ansible_learn_the_easy_way/blob/master/images//a2.png)
+
+
+#### Why Ansible???
+
+  * Its clean...!
+  * Fast.
+  * No agent. i.e. Agentless
+  * No DB. easy to move from one system to other easialy.
+  * No residual software. no footprints on remote system.
+  * No complex upgrades.
+  * Easy to extend
+  * Shell commands.
+  * Script.
+  * URL/Restfull calls.
+  * Ansible-Galaxy.
+
+#### YAML
+
+  * It uses YAML to create your task.
+  * No programing required
+  * NOT a markup language
+  * Structured language, writting
+  * Easy to read and write.
+
+#### Secure
+
+  * Build in security
+  * Uses SSH.
+  * Root/Sudo usage.
+  * Encrupted vault.
+  * No PKI needed.
+
+  
